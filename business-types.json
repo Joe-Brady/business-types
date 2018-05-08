@@ -9,6 +9,7 @@
     }
   },
   "Farm-Livestock": {
+  "Farm-Livestock And Stuff": {
     "answerIds": ["TYPE-A0", "TYPE-A5"],
     "baseScores": {
       "Type of food and method of handling": 30,
